@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:46:55.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QU5KjeW-DS6-sJlrpdp2" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:53:10.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IV3dYVxjodTESdw0vK5q" version="22.1.7" type="github">
   <diagram name="Page-1" id="NHY2SmDRfg_OCkW9SkJy">
     <mxGraphModel dx="3393" dy="3694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="-887" y="-1685" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-58" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-887" y="-1635" width="854" height="536" as="geometry" />
+          <mxGeometry x="-887" y="-1635" width="854" height="559" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-59" value="Home" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="-DGKro4F88sxjP23v14D-58">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -205,6 +205,18 @@
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-105" value="&amp;nbsp;Section3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#343A40;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="-889" y="208" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-DGKro4F88sxjP23v14D-106" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-887" y="921" width="835" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="-DGKro4F88sxjP23v14D-107" value="Educated" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-DGKro4F88sxjP23v14D-108" value="https://www.booknotes/Educated/jessica.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-DGKro4F88sxjP23v14D-109" value="Book notes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#343A40;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-889" y="869" width="113" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
