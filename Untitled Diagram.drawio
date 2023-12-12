@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T06:53:30.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A5bgz6PBPnjctsEXrGg3" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T06:58:03.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tFzm-nqgWzvRWC0F82hv" version="22.1.7" type="github">
   <diagram name="Page-1" id="NHY2SmDRfg_OCkW9SkJy">
     <mxGraphModel dx="3511" dy="3671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
           <mxGeometry x="-889" y="208" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-106" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-895" y="928" width="835" height="625" as="geometry" />
+          <mxGeometry x="-893" y="926" width="835" height="587" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-107" value="Educated" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -216,7 +216,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-113" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
-          <mxGeometry x="19" y="379" width="800" height="120" as="geometry" />
+          <mxGeometry x="19" y="412" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-DGKro4F88sxjP23v14D-114" value="Quote" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=20;fontSize=14;" vertex="1" parent="-DGKro4F88sxjP23v14D-113">
           <mxGeometry width="800" height="40" relative="1" as="geometry" />
@@ -226,10 +226,10 @@
             <mxPoint y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DGKro4F88sxjP23v14D-119" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Book notes&lt;/span&gt;&lt;br&gt;&lt;br&gt;This note mainly include ...&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#E9ECEF;fontColor=#474E4F;align=left;spacing=15;fontSize=14;verticalAlign=top;spacingTop=40;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
+        <mxCell id="-DGKro4F88sxjP23v14D-119" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Book notes&lt;/span&gt;&lt;br&gt;&lt;br&gt;First read in ....This note mainly include ...&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#E9ECEF;fontColor=#474E4F;align=left;spacing=15;fontSize=14;verticalAlign=top;spacingTop=40;" vertex="1" parent="-DGKro4F88sxjP23v14D-106">
           <mxGeometry x="19" y="125" width="800" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="-DGKro4F88sxjP23v14D-120" value="First read in 2019." style="shape=line;html=1;shadow=0;dashed=0;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;spacingTop=10;" vertex="1" parent="-DGKro4F88sxjP23v14D-119">
+        <mxCell id="-DGKro4F88sxjP23v14D-120" value="Last updated on 12/12/2023." style="shape=line;html=1;shadow=0;dashed=0;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;spacingTop=10;" vertex="1" parent="-DGKro4F88sxjP23v14D-119">
           <mxGeometry width="770" height="8.266666666666666" relative="1" as="geometry">
             <mxPoint x="15" y="151" as="offset" />
           </mxGeometry>
